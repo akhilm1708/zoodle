@@ -17,6 +17,7 @@
       "Hippopotamus": 60
     }
   },
+  
   {
     "name": "Emperor Penguin",
     "imageFile": "emperor-penguin.png",
@@ -35,6 +36,7 @@
       "Atlantic Puffin": 55
     }
   },
+
   {
     "name": "Red Panda",
     "imageFile": "red-panda.png",
