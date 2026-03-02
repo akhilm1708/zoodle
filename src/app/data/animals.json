@@ -1,0 +1,56 @@
+[
+  {
+    "name": "African Elephant",
+    "imageFile": "african-elephant.png",
+    "hints": [
+      "I am one of the largest land animals on Earth.",
+      "I use a long flexible nose to grab food and water.",
+      "My huge ears are shaped a bit like the continent I’m named after."
+    ],
+    "diet": "Mainly grasses, leaves, bark, and fruit from trees and shrubs.",
+    "population": "350,000–415,000",
+    "lifespan": "60–70 years",
+    "funFact": "African elephants can communicate using low-frequency sounds that travel several kilometers through the ground.",
+    "relatedAnimals": {
+      "Asian Elephant": 90,
+      "White Rhinoceros": 70,
+      "Hippopotamus": 60
+    }
+  },
+  {
+    "name": "Emperor Penguin",
+    "imageFile": "emperor-penguin.png",
+    "hints": [
+      "I look like I’m wearing a black and white tuxedo.",
+      "I cannot fly, but I slide and swim very well on ice and in water.",
+      "I keep my egg warm by balancing it on my feet in the freezing cold."
+    ],
+    "diet": "Primarily small fish, krill, and squid caught in icy ocean waters.",
+    "population": "595,000–650,000",
+    "lifespan": "15–20 years",
+    "funFact": "Emperor penguins can dive over 500 meters deep and hold their breath for more than 20 minutes.",
+    "relatedAnimals": {
+      "King Penguin": 88,
+      "Adélie Penguin": 80,
+      "Atlantic Puffin": 55
+    }
+  },
+  {
+    "name": "Red Panda",
+    "imageFile": "red-panda.png",
+    "hints": [
+      "I have a long fluffy tail with rings and a masked face.",
+      "I spend much of my time in trees, especially in cool mountain forests.",
+      "Although my name says otherwise, I am not a bear but have my own special family."
+    ],
+    "diet": "Mostly young bamboo leaves and shoots, plus fruits, berries, and the occasional egg or small insect.",
+    "population": "5,000–10,000",
+    "lifespan": "8–10 years",
+    "funFact": "Red pandas use their big, bushy tails like blankets to stay warm while they sleep in the trees.",
+    "relatedAnimals": {
+      "Giant Panda": 75,
+      "Raccoon": 70,
+      "Ring-tailed Lemur": 60
+    }
+  }
+]
